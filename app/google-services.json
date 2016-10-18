@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "400137517311",
+    "firebase_url": "https://fir-test-bee38.firebaseio.com",
+    "project_id": "fir-test-bee38",
+    "storage_bucket": "fir-test-bee38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400137517311:android:2bd87867cded92ec",
+        "android_client_info": {
+          "package_name": "com.slbd.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400137517311-t8dhckct2bh13auu6r7hm8keoeal1shf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlTnV67-ko89QiIhNJjXxVxM0YJXc4Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
